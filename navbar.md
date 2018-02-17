@@ -1,0 +1,2 @@
+* [English](/)
+* [Indonesia](/zh-cn/)
