@@ -1,4 +1,4 @@
 
 * [Home](/README.md)
-* [Guide](guide.md)
-* [about](about.md)
+* [Cara Pemakaian](guide.md)
+* [Pendahuluan](about.md)
