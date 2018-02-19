@@ -200,13 +200,13 @@ li input[type=checkbox] {
 }
 
 .app-nav a.active,.app-nav a:hover {
-	color: #ea6f5a;
-	color: var(--theme-color,#ea6f5a)
+	color: #ffffff;
+	color: var(--theme-color,#fffff)
 }
 
 .app-nav a.active {
-	border-bottom: 2px solid #ea6f5a;
-	border-bottom: 2px solid var(--theme-color,#ea6f5a)
+	border-bottom: 2px solid #ffffff;
+	border-bottom: 2px solid var(--theme-color,#ffffff)
 }
 
 .app-nav li {
