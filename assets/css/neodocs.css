@@ -415,8 +415,8 @@ main.hidden {
 }
 
 .sidebar-toggle span {
-	background-color: #ea6f5a;
-	background-color: var(--theme-color,#ea6f5a);
+	background-color: #a4ada7;
+	background-color: var(--theme-color,#a4ada7);
 	display: block;
 	margin-bottom: 4px;
 	width: 16px;
