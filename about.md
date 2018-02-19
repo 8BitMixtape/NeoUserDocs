@@ -1,3 +1,0 @@
-# About
-
-8BitMixtapeNEO adalah synthesizer lo-fi 8 bit yang berbasis pada platform Arduino dengan chip Attiny85. Alat ini memiliki 2 Potensiometer, 2 Tombol, 8 Lampu RGB Neo-Pixels, dan 1 Speaker out. Salah satu kelebihan 8BitMixtapeNEO adalah kemudahan mengunggah program menggunakan protokol audio, yang berarti kalian tinggal memainkan file .wav dari komputer / smartphone kalian (bahkan walkman!). 
