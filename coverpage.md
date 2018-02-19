@@ -5,8 +5,4 @@
 
 > A very very cool open source and arduino compatible synthesizer.
 
-- Reprogram with audio
-- Object of Desire
-- 8 NEO Pixels (RGB-LEDs)
-
 [Get Started](Home)
