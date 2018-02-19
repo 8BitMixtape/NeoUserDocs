@@ -66,6 +66,7 @@
 
 .sidebar>h1 a {
     font-family: 'FFF-Forward';
+    text-shadow: 0 2px 5px rgba(0,0,0,.5);
 
 }
 
