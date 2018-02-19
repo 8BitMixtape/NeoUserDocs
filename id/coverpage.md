@@ -4,6 +4,6 @@
 
 > A very very cool open source and arduino compatible synthesizer.
 
-[Get Started](/id/README)
+[Mulai](/id/README)
 
 ![color](#C6C6)
