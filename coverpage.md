@@ -7,4 +7,4 @@
 
 [Get Started](Home)
 
-![color](#cccccc)
+![color](#dddddd)
