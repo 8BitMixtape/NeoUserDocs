@@ -1,3 +1,3 @@
-* [Home](README.md)
-* [Cara Pemakaian](guide.md)
-* [Pendahuluan](about2.md)
+* [Home](id/README.md)
+* [Cara Pemakaian](id/guide.md)
+* [Pendahuluan](id/about2.md)
