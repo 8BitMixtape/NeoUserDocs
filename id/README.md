@@ -6,7 +6,7 @@
 
 ![](/assets/18bitanim.gif)
 
-1. Pengenalan alat
+1. Pengenalan alat2
 2. Spesifikasi alat
 3. Mengunggah Software
 4. Pemakaian
