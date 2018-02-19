@@ -1,6 +1,10 @@
 # Panduan Menggunakan 8Bitmixtape-NEO
 
-![](images/8bitpixelconnection.png)
+![](/images/8bitpixelconnection.png)
+
+![](/assets/28bitanim.gif)
+
+![](/assets/18bitanim.gif)
 
 1. Pengenalan alat
 2. Spesifikasi alat
