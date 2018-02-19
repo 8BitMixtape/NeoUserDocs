@@ -2,9 +2,9 @@
 
 ![](/images/8bitpixelconnection.png)
 
-![](/assets/28bitanim.gif)
+![](/images/28bitanim.gif)
 
-![](/assets/18bitanim.gif)
+![](/images/18bitanim.gif)
 
 1. Pengenalan alat2
 2. Spesifikasi alat
