@@ -1,2 +1,2 @@
-    - [English](/)
-    - [Indonesia](/id/)
+* [English](/)
+* [Indonesia](/id/)
