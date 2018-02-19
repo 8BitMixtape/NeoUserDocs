@@ -10,4 +10,3 @@
 - 8 NEO Pixels (RGB-LEDs)
 
 [Get Started](Home)
-[View Source](https://github.com/8BitMixtape/8Bit-Mixtape-NEO)
