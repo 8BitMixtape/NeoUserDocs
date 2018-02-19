@@ -1,2 +1,3 @@
-* [English](/)
-* [Indonesia](/id/)
+- Translations
+    * [English](/)
+    * [Indonesia](/id/)
