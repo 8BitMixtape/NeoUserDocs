@@ -1,4 +1,5 @@
-![](images/8bitpixelconnection.png)
+
+![](images/8bitpixel_cover.png)
 
 # 8BitMixtape-NEO <small>HW v0.96 SW v0.26</small>
 
