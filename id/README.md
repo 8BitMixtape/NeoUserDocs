@@ -1,4 +1,6 @@
-# Cara Penggunaan 8BitmixtapeNEO![](/images/8bitpixelconnection.png)
+# Panduan Menggunakan 8BITMIXTAPENEO
+
+![](images/8bitpixelconnection.png)
 
 1. Pengenalan alat
 2. Spesifikasi alat
