@@ -5,6 +5,6 @@
 
 > A very very cool open source and arduino compatible synthesizer.
 
-[Get Started](Home)
+[Get Started](README)
 
 ![color](#C6C6)
