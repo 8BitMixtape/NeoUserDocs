@@ -832,8 +832,8 @@ section.cover.has-mask .mask {
 }
 
 .sidebar ul li.active>a {
-	color: #ea6f5a;
-	color: var(--theme-color,#ea6f5a);
+	color: #eae705;
+	color: var(--theme-color,#eae705);
 	font-weight: 600
 }
 
