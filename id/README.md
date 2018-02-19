@@ -1,4 +1,4 @@
-# Panduan Menggunakan 8BITMIXTAPENEO
+# Panduan Menggunakan 8Bitmixtape-NEO
 
 ![](images/8bitpixelconnection.png)
 
