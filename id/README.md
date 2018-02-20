@@ -2,9 +2,13 @@
 
 ![](/images/8bitpixelconnection.png)
 
+<p align="center">
 ![](/images/28bitanim.gif)
+</p>
 
+<p align="center">
 ![](/images/18bitanim.gif)
+</p>
 
 [Neo Diagnostic](http://docs.8bitmixtape.cc/hexs/5a8569c12823f715656294.hex)
 
