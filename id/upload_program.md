@@ -1,6 +1,15 @@
 # Cara Mengunggah Program ke 8BitmixtapeNEO
 
 <p align="center">
+![](/images/equipment.gif)
+<br>
+Siapkan peralatan yang dibutuhkan: Komputer, 8BitMixtapeNEO, Speaker dan jangan lupa kabel Aux
+</p>
+
+
+
+
+<p align="center">
 ![](/images/48bitanim.gif)
 <br>
 Sambungkan kabel speaker ke 8BitMixtapeNEO
