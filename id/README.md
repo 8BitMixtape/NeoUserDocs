@@ -1,6 +1,8 @@
 # Panduan Menggunakan 8Bitmixtape-NEO
 
+<p align="center">
 ![](/images/8bitpixelconnection.png)
+</p>
 
 <p align="center">
 ![](/images/28bitanim.gif)
