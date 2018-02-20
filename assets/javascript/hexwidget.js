@@ -76,7 +76,7 @@ $(function () {
             contentClassName: 'panel-shadow',
             buttons: [],
             unsafeMessage: '<div class="mg-lg fontpress"><h3  class="fontbit">' + hex_name + '</h3> <hr class=""/> <p>Program name: <b>' + hex_name + '</b></p> <p> <ol><li class=“”>First, start turning on your synthesizer by pressing the <b>power button</b> on the middle.</li><li class=“”>Second, you can tell that it’s on by looking at the <b>blinking LED</b> on the right side of your synthesizer. </li><li class=“”>Then click <b>INSTALL</b> before blinking time runs out (5 seconds).</li><li class=“”>Next, your LED will <b>blink rapidly</b> when installation is running. Voila! Your synthesizer is ready to use!</li></ol> </p></div>',
-            input: ' <a class="mg-lg btn btn-sq btn-block btn-flat panel-shadow btn-neon-carrot" onclick="window.uploadHexBtn(this, event);" href="#" value="' + hex_id + '" ><span class="fa fa-bolt icon-spacer"></span><b>INSTALL</b> <span class="fa fa-bolt icon-spacer"></span></a>'
+            input: ' <a class="pure-button" onclick="window.uploadHexBtn(this, event);" href="#" value="' + hex_id + '" ><span class="fa fa-bolt icon-spacer"></span><b>INSTALL</b> <span class="fa fa-bolt icon-spacer"></span></a>'
         });
       }
 

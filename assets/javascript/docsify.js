@@ -3103,7 +3103,7 @@ Compiler.prototype._initRenderer = function _initRenderer () {
     if (href.endsWith(".hex"))
     {
       
-      return '<a class=\"btn btn-sq btn-lg btn-block btn-glossy btn-purple-x11\" onclick="window.downloadHex(this)\" value=\"' + href + '\" programname=\"' + text + '\">INSTALL</a>';
+      return '<button class=\"pure-button\" onclick="window.downloadHex(this)\" value=\"' + href + '\" programname=\"' + text + '\">INSTALL</button>';
     }else if (href.endsWith(".wav")) {
       return '<a class=\"input-reset hover-bg-black w-100 tracked-mega bg-black-70 b--black-10 white f6 pv2 pv2-ns ph4 ba b--black-80 bg-hover-mid-gray fontbit\" onclick="window.downloadWav(this)\" value=\"' + href + '\" programname=\"' + text +  '\">INSTALL</a>';
     }else{
