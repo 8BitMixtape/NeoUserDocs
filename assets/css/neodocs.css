@@ -1109,3 +1109,8 @@ input[type=search] {
 	border: 1px solid #ccc;
 	border-bottom-color: #ccc;
 }
+
+.sidebar>h1 a {
+	color: #bcbcbc;
+	text-decoration: none
+}
