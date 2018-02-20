@@ -35,7 +35,7 @@ $(function () {
             dom.innerHTML = normal_txt;
             
           })
-          .error(function(xhr, errorType, error {
+          .error(function(xhr, errorType, error) {
             dom.innerHTML = failed_txt;       
           });
 
