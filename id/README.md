@@ -6,6 +6,8 @@
 
 ![](/images/18bitanim.gif)
 
+[](http://neo.8bitmixtape.cc/storage/app/uploads/public/5a8/569/c12/5a8569c12823f715656294.hex)
+
 1. Pengenalan alat2
 2. Spesifikasi alat
 3. Mengunggah Software
