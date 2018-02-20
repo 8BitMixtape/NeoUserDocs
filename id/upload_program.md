@@ -1,6 +1,13 @@
 # Cara Mengunggah Program ke 8BitmixtapeNEO
 
 <p align="center">
+![](/images/48bitanim.gif)
+<br>
+Sambungkan kabel speaker ke 8BitMixtapeNEO
+</p>
+
+
+<p align="center">
 ![](/images/28bitanim.gif)
 <br>
 Sambungkan kabel aux dari speaker out komputer ke programming port di 8BitMixtapeNEO
