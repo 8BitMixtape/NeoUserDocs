@@ -15,6 +15,7 @@ Kemudian langsung klik tombol di bawah ini
 <br>
 (sebelum 5 detik, apabila lebih matikan alat dan ulangi dari langkah no 2)
 <br>
+<br>
 [Neo Diagnostic](http://docs.8bitmixtape.cc/hexs/5a8569c12823f715656294.hex)
 </p>
 
