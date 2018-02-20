@@ -3,7 +3,7 @@
 * [Cara Pemakaian](id/guide.md)
 * Pengenalan alat
 * Spesifikasi alat
-* Mengunggah Software
+* [Mengunggah Software](id/upload_program.md)
 * Pemakaian
 * Permasalahan/Troubleshooting
 * Kustomisasi Software
