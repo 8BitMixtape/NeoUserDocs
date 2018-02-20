@@ -828,11 +828,10 @@ section.cover.has-mask .mask {
 }
 
 .sidebar ul li.active>a {
-	color: #eae705;
-	color: var(--theme-color,#eae705);
+	color: #ffc80b;
+	color: var(--theme-color,#ffc80b);
     font-weight: 600;
-    text-shadow: 0 2px 5px rgba(0,0,0,.5);
-
+    
 }
 
 .markdown-section h1,.markdown-section h2,.markdown-section h3,.markdown-section h4,.markdown-section strong {
@@ -1092,4 +1091,21 @@ input[type=search] {
 
 .section.cover.show {
     background: linear-gradient(to left bottom, hsl(7, 100%, 85%) 0%, hsl(196, 100%, 85%) 100%) !important;
+}
+
+
+.app-nav li ul li {
+	color: #fff;
+}
+
+.app-nav li ul a.active {
+	color: #fff;
+	font-weight: 600;
+}
+
+
+.app-nav li ul {
+	background-color: rgb(114, 111, 111);
+	border: 1px solid #ccc;
+	border-bottom-color: #ccc;
 }
