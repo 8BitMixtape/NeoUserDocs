@@ -1,7 +1,7 @@
 # Cara Mengunggah Program ke 8BitmixtapeNEO
 
 <p align="center">
-![](/images/equipment.gif)
+![](/images/8bitpixelconnection.png)
 <br>
 Siapkan peralatan yang dibutuhkan: Komputer, 8BitMixtapeNEO, Speaker dan jangan lupa kabel Aux
 </p>
