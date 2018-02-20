@@ -26,18 +26,18 @@ $(function () {
 
           $.ajax({
               url: '' + hex_id,
-              type: 'GET'
+              type: 'GET',
+              success: function(data){
+                hex_cache[hex_id] = data;
+                window.openModal(hex_id, hex_name);
+                dom.innerHTML = normal_txt;
+              },
+              error: function() {
+                dom.innerHTML = failed_txt;
+              }
           })
-          .success(function(data, status, xhr) {
-            //console.log(data);
-            hex_cache[hex_id] = data;
-            window.openModal(hex_id, hex_name);
-            dom.innerHTML = normal_txt;
-            
-          })
-          .error(function(xhr, errorType, error) {
-            dom.innerHTML = failed_txt;       
-          });
+
+
 
       }
 
