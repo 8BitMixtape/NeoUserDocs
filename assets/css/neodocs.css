@@ -1114,3 +1114,70 @@ input[type=search] {
 	color: #d2d2d2;
 	text-decoration: none
 }
+
+
+.btn, a {
+
+    font-family: "Helvetica";
+
+}
+.btn-glossy {
+
+    border: 1px solid rgba(0,0,0,.09);
+    border-bottom-color: rgba(0, 0, 0, 0.09);
+    border-bottom-color: rgba(0,0,0,.2);
+    text-shadow: 0 1px 0 rgba(0,0,1,.2);
+    box-shadow: 0 1px 3px rgba(0,0,1,.35), inset 0 1px 0 0 rgba(255,255,255,.4), inset 0 1px 0 2px rgba(255,255,255,.08);
+    background-image: -moz-linear-gradient(bottom, rgba(0,0,0,.07) 0%, rgba(255,255,255,.07) 100%);
+    background-image: -o-linear-gradient(bottom, rgba(0,0,0,.07) 0%, rgba(255,255,255,.07) 100%);
+    background-image: -webkit-linear-gradient(bottom, rgba(0,0,0,.07) 0%, rgba(255,255,255,.07) 100%);
+    background-image: linear-gradient(bottom, rgba(0,0,0,.07) 0%, rgba(255,255,255,.07) 100%);
+
+}
+.btn-sq {
+
+    border-radius: 0px;
+
+}
+.btn {
+
+    margin: 0 5px 5px 0;
+
+}
+.btn-block {
+
+    display: block;
+    width: 100%;
+
+}
+.btn-group-lg > .btn, .btn-lg {
+
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+
+}
+.btn {
+
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+
+}
