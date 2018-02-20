@@ -7,8 +7,6 @@ Siapkan peralatan yang dibutuhkan: Komputer, 8BitMixtapeNEO, Speaker dan jangan 
 </p>
 
 
-
-
 <p align="center">
 ![](/images/48bitanim.gif)
 <br>
