@@ -18,7 +18,7 @@ $(function () {
           var hex_id = dom.getAttribute('value');
           var hex_name = dom.getAttribute('programName');
 
-          var normal_txt = "<span class=\"fa fa-bolt icon-spacer\" ></span>INSTALL";
+          var normal_txt = dom.innerHTML;
           var getting_txt = "<b>Loading..</b>";
           var failed_txt = "<b>Fail, Retry?..</b>";
 
