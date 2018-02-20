@@ -23,7 +23,7 @@ Kemudian langsung klik tombol di bawah ini
 <p align="center">
 ![](/images/38bitanim.gif)
 <br>
-Apabila transfer data berlangsung led di bagian kanan 8BitMixtapeNEO akan berkedip secara cepat
+Apabila transfer data berlangsung LED di bagian kanan 8BitMixtapeNEO akan berkedip secara cepat
 </p>
 
 
