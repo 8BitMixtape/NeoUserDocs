@@ -20,7 +20,11 @@ Nyalakan tombol power di 8BitmixtapeNEO (terletak di tengah)
 
 
 <p align="center">
+
+Klik tombol di bawah ini<br>
+
 [Neo Diagnostic](http://docs.8bitmixtape.cc/hexs/5a8569c12823f715656294.hex)
+
 </p>
 
 1. Pengenalan alat2
