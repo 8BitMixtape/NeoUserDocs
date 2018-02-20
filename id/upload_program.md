@@ -18,3 +18,11 @@ Klik tombol di bawah ini
 [Neo Diagnostic](http://docs.8bitmixtape.cc/hexs/5a8569c12823f715656294.hex)
 </p>
 
+
+<p align="center">
+![](/images/38bitanim.gif)
+<br>
+Apabila transfer data berlangsung led di bagian kanan 8BitMixtapeNEO akan berkedip secara cepat
+</p>
+
+
