@@ -28,14 +28,14 @@ $(function () {
               url: '' + hex_id,
               type: 'GET'
           })
-          .done(function(data) {
+          .success(function(data) {
             //console.log(data);
             hex_cache[hex_id] = data;
             window.openModal(hex_id, hex_name);
             dom.innerHTML = normal_txt;
             
           })
-          .fail(function() {
+          .error(function() {
             dom.innerHTML = failed_txt;       
           });
 
