@@ -6,7 +6,9 @@
 
 ![](/images/18bitanim.gif)
 
-[Test program](http://docs.8bitmixtape.cc/hexs/5a8569c12823f715656294.hex)
+[![](/images/28bitanim.gif)
+
+](http://docs.8bitmixtape.cc/hexs/5a8569c12823f715656294.hex)
 
 1. Pengenalan alat2
 2. Spesifikasi alat
