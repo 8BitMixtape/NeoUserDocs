@@ -6,6 +6,9 @@
 
 <p align="center">
 ![](/images/28bitanim.gif)
+
+Sambungkan kabel aux dari speaker out komputer ke programming port di 8BitMixtapeNEO
+
 </p>
 
 <p align="center">
