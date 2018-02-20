@@ -10,10 +10,14 @@ Sambungkan kabel aux dari speaker out komputer ke programming port di 8BitMixtap
 ![](/images/18bitanim.gif)
 <br>
 Nyalakan tombol power di 8BitmixtapeNEO (terletak di tengah)
+<br>
+Kemudian langsung klik tombol di bawah ini
+<br>
+(sebelum 5 detik, apabila lebih matikan alat dan ulangi dari langkah no 2)
 </p>
 
 <p align="center">
-Kemudian langsung klik tombol di bawah ini (sebelum 5 detik, apabila lebih matikan alat dan ulangi dari langkah no 2)
+
 <br>
 [Neo Diagnostic](http://docs.8bitmixtape.cc/hexs/5a8569c12823f715656294.hex)
 </p>
