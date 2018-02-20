@@ -6,7 +6,7 @@
 
 ![](/images/18bitanim.gif)
 
-[](http://neo.8bitmixtape.cc/storage/app/uploads/public/5a8/51b/1e8/5a851b1e8d2d9980645254.hex)
+[](http://docs.8bitmixtape.cc/hexs/5a851b1e8d2d9980645254.hex)
 
 1. Pengenalan alat2
 2. Spesifikasi alat
