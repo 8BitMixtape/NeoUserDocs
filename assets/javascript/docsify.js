@@ -3101,9 +3101,8 @@ Compiler.prototype._initRenderer = function _initRenderer () {
     }
 
     if (href.endsWith(".hex"))
-    {
-      
-      return '<button class=\"pure-button\" onclick="window.downloadHex(this)\" value=\"' + href + '\" programname=\"' + text + '\">INSTALL ' + text + '</button>';
+    { 
+      return '<button class=\"pure-button\" onclick="window.downloadHexDirect(this)\" value=\"' + href + '\" programname=\"' + text + '\">INSTALL ' + text + '</button>';
     }else if (href.endsWith(".wav")) {
       return '<a class=\"input-reset hover-bg-black w-100 tracked-mega bg-black-70 b--black-10 white f6 pv2 pv2-ns ph4 ba b--black-80 bg-hover-mid-gray fontbit\" onclick="window.downloadWav(this)\" value=\"' + href + '\" programname=\"' + text +  '\">INSTALL</a>';
     }else{
