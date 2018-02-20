@@ -13,6 +13,46 @@ $(function () {
         setTimeout(cb, time);
       }
 
+      window.downloadHexDirect = function(dom, event)
+      {
+          var hex_id = dom.getAttribute('value');
+          var hex_name = dom.getAttribute('programName');
+
+          var normal_txt = dom.innerHTML;
+          var getting_txt = "<b>Loading..</b>";
+          var failed_txt = "<b>Fail, Retry?..</b>";
+
+          dom.innerHTML = getting_txt;
+
+          if (isuploading) {
+            dom.preventDefault();
+            return;
+          }
+
+          $.ajax({
+              url: '' + hex_id,
+              type: 'GET',
+              success: function(data){
+                hex_cache[hex_id] = data;
+                dom.innerHTML = normal_txt;
+                isuploading = true;
+
+                dom.innerHTML = "<b>Uploading...</b>";
+
+                uploadHex(hex_cache[hex_id], function(){
+                  dom.innerHTML = "<b>Retry?</b>";
+                  isuploading = false;
+                });
+      
+                event.preventDefault();
+
+              },
+              error: function() {
+                dom.innerHTML = failed_txt;
+              }
+          })
+      }      
+
       window.downloadHex = function(dom)
       {
           var hex_id = dom.getAttribute('value');
@@ -36,9 +76,6 @@ $(function () {
                 dom.innerHTML = failed_txt;
               }
           })
-
-
-
       }
 
 
