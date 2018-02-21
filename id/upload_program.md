@@ -28,7 +28,7 @@
 Kemudian langsung **klik tombol di bawah ini** (sebelum 5 detik setelah tombol power ditekan)
 <br>
 <br>
-[Neo Rainbow](http://docs.8bitmixtape.cc/hexs/5a8569c12823f715656294.hex)
+[Neo Rainbow](http://docs.8bitmixtape.cc/hexs/NeoRainbowControl.hex)
 </p>
 
 
