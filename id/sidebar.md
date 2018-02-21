@@ -4,7 +4,6 @@
 * Pengenalan alat
 * Spesifikasi alat
 * [Mengunggah Software](id/upload_program.md)
-* [Pertanyaan Umum](id/faq.md)
 * Pemakaian
 * Permasalahan/Troubleshooting
 * Kustomisasi Software
