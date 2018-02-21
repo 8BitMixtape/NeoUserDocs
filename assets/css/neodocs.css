@@ -1115,6 +1115,10 @@ input[type=search] {
 	text-decoration: none
 }
 
+.markdown-section h1,.markdown-section h2,.markdown-section h3,.markdown-section h4,.markdown-section strong {
+	color: #c5efff;
+	font-weight: 600
+}
 /*!
 Pure v1.0.0
 Copyright 2013 Yahoo!
