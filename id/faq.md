@@ -20,7 +20,7 @@ Ya, asal kerusakan tidak berasal dari kesalahan pengguna, kami akan memperbaikin
 
 Ya, dan kalian cukup mencharge dengan menggunakan kabel micro usb dan adaptor 5v yang biasa digunakan di handphone
 
-### Untuk mengunggah program ke 8BitMixtapeNEO apakah dibutuh aplikasi khusus**?**
+#### **Untuk mengunggah program ke 8BitMixtapeNEO apakah dibutuh aplikasi khusus** **?**
 
 Tidak, kamu hanya membutuhkan browser biasa \(Firefox, Chrome, Safari\) sedangkan di handphone kami menyarankan untuk menggunakan Chrome browser
 
