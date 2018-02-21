@@ -41,6 +41,5 @@ Apabila transfer data berlangsung **LED** di bagian kanan 8BitMixtapeNEO akan **
 
 
 <p align="center">
-Upload berhasil apabila 8BitMixtapeNEO mengeluarkan cahaya warna warni seperti pelangi
-</p>
+Upload berhasil apabila **8BitMixtapeNEO** mengeluarkan cahaya warna warni seperti pelangi, apabila tidak ulangi dari **langkah no 4**</p>
 
