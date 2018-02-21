@@ -3,7 +3,7 @@
 <p align="center">
 ![](/images/equipment.gif)
 <br>
-1. Siapkan peralatan yang dibutuhkan: **Komputer**, **8BitMixtapeNEO**, **Speaker** dan jangan lupa **kabel Aux**
+1. Siapkan peralatan yang dibutuhkan: **Komputer**, **8BitMixtapeNEO**, **Speaker (optional)**  dan jangan lupa **kabel Aux**
 </p>
 
 
