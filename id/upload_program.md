@@ -23,7 +23,7 @@
 <p align="center">
 ![](/images/18bitanim.gif)
 <br>
-4. Nyalakan tombol **power** di 8BitmixtapeNEO (terletak di tengah)
+4. Pastikan alat dalam keadaan mati, kemudian nyalakan tombol **power** di 8BitmixtapeNEO (terletak di tengah)
 <br>
 Kemudian langsung **klik tombol di bawah ini** (sebelum 5 detik setelah tombol power ditekan)
 <br>
