@@ -41,5 +41,7 @@ Kemudian langsung **klik tombol di bawah ini** (sebelum 5 detik setelah tombol p
 
 
 <p align="center">
+![](/images/tumblr_mjphnqLpNy1s5jjtzo1_400.gif)
+<br>
 Upload berhasil apabila **8BitMixtapeNEO** mengeluarkan cahaya warna warni seperti pelangi, apabila tidak ulangi dari **langkah no 4**</p>
 
