@@ -1,3 +1,6 @@
+# Pertanyaan umum mengenai 8BitmixtapeNEO
+
+
 #### **Apakah alat ini bisa memutar mp3 ?**
 
  Tidak, ini bukan mp3 player, dan juga bukan alat sampling
