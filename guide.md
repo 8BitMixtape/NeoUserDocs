@@ -1,5 +1,5 @@
 test...
-[061 NeoPixel Sequencer](hexs/_061_8NeoPixelSequencer_dusjagrMod2.ino.hex)
+[061 NeoPixel Sequencer](hexs/_061_8NeoPixelSequencer_dusjagrMod2.hex)
 
 more coming soon
 
