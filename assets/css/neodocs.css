@@ -841,7 +841,7 @@ section.cover.has-mask .mask {
 
 .markdown-section a {
 	color: #ea6f5a;
-	color: var(--theme-color,#ea6f5a);
+	color: var(--theme-color,#fff);
 	font-weight: 600
 }
 
