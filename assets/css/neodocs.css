@@ -133,7 +133,7 @@ body {
 	-webkit-font-smoothing: antialiased;
 	color: #ffffff;
 	font-family: Source Sans Pro,Helvetica Neue,Arial,sans-serif;
-	font-size: 15px;
+	font-size: 18px;
 	letter-spacing: 0;
 	margin: 0;
 	overflow-x: hidden
@@ -486,7 +486,7 @@ body.sticky .sidebar,body.sticky .sidebar-toggle {
 }
 
 .markdown-section p.tip,.markdown-section tr:nth-child(2n) {
-	background-color: #f8f8f8
+	background-color: rgba(255, 255, 255, 0.19);
 }
 
 .markdown-section p.tip {
@@ -795,7 +795,7 @@ section.cover.has-mask .mask {
 }
 
 .sidebar,body {
-	background-color: #8c8ca1
+	background-color: #2f2f2f;
 }
 
 .sidebar ul li a {
@@ -841,7 +841,7 @@ section.cover.has-mask .mask {
 
 .markdown-section a {
 	color: #ea6f5a;
-	color: var(--theme-color,#ea6f5a);
+	color: var(--theme-color,#fff);
 	font-weight: 600
 }
 
