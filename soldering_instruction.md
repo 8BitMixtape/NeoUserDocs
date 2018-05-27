@@ -62,7 +62,6 @@ Juhhhuuuuu, you managed to solder all the parts of the "Just for Pro" kit. Now o
 | Potentiometer   | 10K lin  |            |   2    |
 | AudioJack       | 3.5m     |  Stereo    |   2    |
 | Side-Connector  | 4 Pin    |  female    |   2    |
-| (external power)| 2 Pin/USB|  optional  |   1    |
 | (AAA Holder)    |          |  optional  |   2    |
 
 ![](images/soldering_instructions/8BitMixtapeNEO_PartsPlacement_Back_v05.png)
