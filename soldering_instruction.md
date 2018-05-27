@@ -64,13 +64,23 @@ Juhhhuuuuu, you managed to solder all the parts of the "Just for Pro" kit. Now o
 | Side-Connector  | 4 Pin    |  female    |   2    |
 | (AAA Holder)    |          |  optional  |   2    |
 
-![](images/soldering_instructions/8BitMixtapeNEO_PartsPlacement_Back_v05.png)
+![](images/soldering_instructions/8BitMixtapeNEO_PartsPlacement_Back_v06.png)
 
 # Power Management
 
 The current edition of the mixtape has several options to be powered. In the kit the version with 2 AAA battery holders is included. It has to be seperately wired on the backside and glued by hand. See the picture below on how to attach it.
 
 ## AAA Battery holders
+Get some wire and solder it onto the tiny little connection pad form the USB footprint at the top. Connect it to the positive end of the battery holder. This is a bit tricky, but needed to be able to use the main power switch on the front of the board. (A future version of the PCB is currently designed to display propoer solder pads for the batteries)
+![](images/soldering_instructions/Soldering_Battery_positive.png)
+
+Solder a wire from the negative of the top battery to the positive of the bottom battery. See picture above.
+
+Connect the negative of the bottom battery to the right pin of the potentiomer (which is ground GND, by the way....)
+
+![](images/soldering_instructions/Soldering_Battery_negative.png)
+
+#### DONE!!!
 
 ![](images/soldering_instructions/BatteryHolder_backside.jpg)
 
