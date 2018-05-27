@@ -1,0 +1,1 @@
+![](images/soldering_instructions/SMD_Soldering_overview.jpg)
