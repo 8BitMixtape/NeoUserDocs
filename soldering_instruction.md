@@ -11,8 +11,8 @@ Download printable [8BitMixtapeNEO_PartsPlacement](https://github.com/8BitMixtap
 
 | Part            | Value    | SMD-Code   | Amount |
 | ----------------|----------|------------|--------|
-| R1, R2          | 4.7K     | 4701 (472  |   2    |
-| R3-R6, R11, R12 | 22K      | 2202 (223  |   7    |
+| R1, R2          | 4.7K     | 4701 (472) |   2    |
+| R3-R6, R11, R12 | 22K      | 2202 (223) |   7    |
 | R7, R8          | 330Ohm   | 3300 (331) |   2    |
 | R9, R10         | 1K       | 1001 (102) |   2    |
 | C1-C3           | 100nF    |            |   3    |
