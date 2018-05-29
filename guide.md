@@ -1,5 +1,5 @@
 test...
-[](http://docs.8bitmixtape.cc/hexs/061_8NeoPixelSequencer_dusjagrMod2.ino.hex)
+[061 Sequencer](http://docs.8bitmixtape.cc/hexs/061_8NeoPixelSequencer_dusjagrMod2.hex)
 
 more coming soon
 
