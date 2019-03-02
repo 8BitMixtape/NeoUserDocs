@@ -9,10 +9,6 @@ refer to our [developer wiki](http://wiki.8bitmixtape.cc/#/) for more info.
 i should really really work on this... where is all the info.
 
 # Cara Mengunggah Program ke 8BitmixtapeNEO
-![](/assets/Hlab14_docu_screenshots.jpg)
-
-![](images/soldering_instructions/BatteryHolder_backside.jpg)
-
 <p align="center">
 ![](/images/equipment.gif)
 
